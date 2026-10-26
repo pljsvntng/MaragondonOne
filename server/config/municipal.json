@@ -1,0 +1,67 @@
+{
+ "barangays": [
+  "Bucal 1",
+  "Bucal 2",
+  "Bucal 3",
+  "Bucal 4",
+  "Caingin",
+  "Garita 1",
+  "Garita 2",
+  "Poblacion 1",
+  "Poblacion 2",
+  "Pantihan 1",
+  "Pantihan 2",
+  "Pantihan 3",
+  "Pantihan 4",
+  "Pinagsanhan 1",
+  "Pinagsanhan 2",
+  "Tulay A",
+  "Tulay B",
+  "Mabato",
+  "Layong Mabilog",
+  "Ramirez",
+  "San Miguel A",
+  "San Miguel B",
+  "Sta. Mercedes",
+  "Talipusngo"
+ ],
+ "barangayNote": "24 supplied names; the project expects 27. Verify against the official list and add/correct names here (no engine changes needed).",
+ "departments": [
+  {
+   "id": "drrm",
+   "name": "Emergency Response & DRRM",
+   "dept": "MDRRMO",
+   "text": "Flood, landslide and disaster response."
+  },
+  {
+   "id": "health",
+   "name": "Health & Medical Supply",
+   "dept": "Rural Health Unit",
+   "text": "Medical supply coordination and dispatch."
+  },
+  {
+   "id": "infra",
+   "name": "Roads, Drainage & Streetlights",
+   "dept": "Engineering Office",
+   "text": "Potholes, drainage clearing, lighting repairs."
+  },
+  {
+   "id": "water",
+   "name": "Waterworks & Utilities",
+   "dept": "Municipal Waterworks",
+   "text": "Pipe leaks and utility concerns."
+  },
+  {
+   "id": "patrol",
+   "name": "Barangay Patrol & Relief",
+   "dept": "Peace & Order / MSWDO",
+   "text": "Patrol rotation and relief distribution."
+  },
+  {
+   "id": "docs",
+   "name": "Documents & Permits",
+   "dept": "Municipal Hall",
+   "text": "Permits and administrative requests."
+  }
+ ]
+}

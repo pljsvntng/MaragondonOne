@@ -1,0 +1,4 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+@layer components{.card{@apply bg-white border border-line rounded-md}.btn{@apply px-3 py-2 text-sm font-medium rounded border border-line bg-white hover:bg-alabaster}
+.btn-p{@apply px-3 py-2 text-sm font-medium rounded bg-teal text-white hover:opacity-90}.inp{@apply w-full border border-line rounded px-2 py-1.5 text-sm bg-white}
+.th{@apply text-left text-xs font-medium text-slate-600 px-3 py-2 border-b border-line}.td{@apply px-3 py-2 text-sm border-b border-line}}
